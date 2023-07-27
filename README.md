@@ -1,2 +1,1 @@
-# db-design-course
-Data Base Design Course
+# Data Base Design Course
